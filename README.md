@@ -37,8 +37,8 @@ Integrated M.Sc. in Mathematics and Computing
 ## Achievements & Activities
 
 - 🏆 Winner — **Bug Hunting Challenge**, Azure Developer Community  
-- 💡 **300+ DSA problems solved** on LeetCode  
-  - Max Contest Rating: **1463**
+- 💡 **350+ DSA problems solved** on LeetCode  
+  - Max Contest Rating: **1486**
 
 ---
 
